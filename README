@@ -1,0 +1,3 @@
+Check out https://wiki.ubuntu.com/gozk for the original.
+
+This fork removes compiler and linker directives from source files to enable the more flexible use of CGO_CFLAGS and CGO_LDFLAGS flags.
